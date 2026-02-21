@@ -12,10 +12,6 @@ We design everything in-house:
 - EPS, backplanes, and power distribution  
 - Payload interfaces for imaging and research missions  
 
-Every PCB.  
-Every line of firmware.  
-Every mechanical component.  
-
 Engineered by students.
 
 Designing, building, and testing spacecraft isn’t easy.  
